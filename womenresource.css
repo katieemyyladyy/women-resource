@@ -1,0 +1,45 @@
+body {background-color: #722A4B;}
+
+	h1 {font-size: 85px;
+	line-height: 1.08em;
+	text-align: center;
+	color: #191919;
+	font-family: 'Open Sans Condensed', sans-serif;}
+
+	h2 {font-size: 28px;
+	line-height:2px;
+	text-align: center;
+	color: #191919;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
+	padding: 5px;}
+
+	h3 {font-size: 22px;
+	line-height:28px;
+	text-align: center;
+	color: #191919;
+	font-family: 'Open Sans Condensed', sans-serif; 
+	padding: 5px;}
+
+	h4 {font-size: 27px;
+	line-height:28px;
+	text-align: center;
+	color: #191919;
+	font-family: 'Open Sans Condensed', sans-serif; 
+	padding: 5px;}
+	
+
+		#headline {
+		position: center;
+		border: 10px #DC7278;
+		border-style: double;
+		padding: 30px;}
+
+		.boxy {width: 1000px;
+		text-align: center;
+		background-color: #FFFFFF;
+		padding:45px;
+		float: center;
+		display: center;
+		margin: 0 auto;}
+
